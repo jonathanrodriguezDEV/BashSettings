@@ -1,6 +1,7 @@
 
 #MY ALIASES
 
+#Updated this chrome path
 alias chrome="/c/Program\ Files\ \(x86\)/Google/Chrome/Application/chrome.exe"
 
 alias sampler="cd /Users/Jonathan/Desktop/PROGRAMMING/SamplerOnline"
@@ -112,4 +113,4 @@ function escher(){
 #LETS RUN THESE FUNCTION ON OPEN!!!
 
 
-helloJonathanThree
+helloJonathanFour
